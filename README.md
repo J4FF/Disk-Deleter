@@ -5,4 +5,4 @@ A Windows Batch Script witch can format and cleans a disk.
 -A Windows Maschine
 
 # Run ✨
--Run it as Administator
+-Run the ".bat" as Administator
