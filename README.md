@@ -5,4 +5,4 @@ A Windows Batch Script witch can format and cleans a disk.
 -A Windows Maschine
 
 # Run ✨
--Run the ".bat" as Administator
+-Run the "Disk Deleter V1.3.bat" as Administator
